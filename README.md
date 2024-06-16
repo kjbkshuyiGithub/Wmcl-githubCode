@@ -11,3 +11,6 @@
 
 1.  Fork 本仓库
 2.  提交代码
+
+
+<a href='https://gitee.com/blog-shuyi/wmcl-gitee-code'><img src='https://gitee.com/blog-shuyi/wmcl-gitee-code/widgets/widget_3.svg' alt='Fork me on Gitee'></img></a>
